@@ -4,4 +4,4 @@ A strip map inspired by [@stevefaeembra's map](https://mapstodon.space/@stevefae
 Data is from OpenStreetMaps, osmnx is used to collect features, shapely and geopandas for polygon manipulations, and Pillow and Matplotlib for image generation.
 
 ### Static image
-[![click for the full-res map](https://raw.githubusercontent.com/Ossssip/Strip_Map/main/thumb.png)](https://github.com/Ossssip/Strip_Map/blob/main/Strip_Map.png))
+[![click for the full-res map](https://raw.githubusercontent.com/Ossssip/Strip_Map/main/thumb.png)](https://github.com/Ossssip/Strip_Map/blob/main/Strip_Map.png)
